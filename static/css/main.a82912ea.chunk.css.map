@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAGC,qBADC,iBAOe,CANhB,WAIC,wBAAgC,CAChC,wBAA+B,CAC/B,cAAe","file":"main.a82912ea.chunk.css","sourcesContent":["h1,\r\n.App p {\r\n  text-align: center;\r\n}\r\n\r\n.todo-list {\r\n  text-align: center;\r\n  background-color: lightsteelblue;\r\n  border: 5px solid lightseagreen;\r\n  margin: 0 250px;\r\n}\r\n"]}
